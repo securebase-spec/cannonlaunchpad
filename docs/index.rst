@@ -6,7 +6,7 @@ Have you recently asked yourself, *“How do I find my Canon printer on this com
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://canondesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Canon</a>
+       <a href="https://deskcanon.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Canon</a>
    </div>
 
 
